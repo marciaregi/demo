@@ -1,7 +1,7 @@
 {
   "orgao": [
     { "id": 54, "url": "http://api.pgi.gov.br/api/1/fonte/54.json", "nome": "MD", "descricao":"Ministério da Defesa", "url_origem": "https://www.defesa.gov.br/" },
-    { "id": 61, "url": "http://api.pgi.gov.br/api/1/fonte/61.json", "nome": "PR/AGU", "Advocacia-Geral da União", "url_origem": "https://www.defesa.gov.br/" },
+    { "id": 61, "url": "http://api.pgi.gov.br/api/1/fonte/61.json", "nome": "PR/AGU", "descricao": "Advocacia-Geral da União", "url_origem": "https://www.defesa.gov.br/" },
     { "id": 56, "url": "http://api.pgi.gov.br/api/1/fonte/56.json", "nome": "MAPA/PNEFA", "descricao":"Programa Nacional de Erradicação da Febre Aftosa", "url_origem": "http://www.agricultura.gov.br/portal/page?_pageid=33,7281835&_dad=portal&_schema=PORTAL" }
   ]
 }
